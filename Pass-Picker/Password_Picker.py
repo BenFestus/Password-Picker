@@ -4,7 +4,7 @@ import random
 import string
 
 adjectives = ['slow', 'smooth', 'rough', 'slimey', 'fast', 'slow']
-nouns = ['lion', 'king', 'queen', 'panda', 'cup', 'van', 'brass']
+nouns = ['lion', 'king', 'queen', 'panda', 'cup', 'van', 'brass', 'pen']
 
 while True:
     #Check if user wants to create password or exit
